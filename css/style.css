@@ -1,0 +1,20 @@
+/* google fonts */
+body{
+    font-family: 'EB Garamond';
+}
+
+.btn-backround-color{
+    color: black;
+}
+.banner-p-color{
+    color: #E7E7E7;
+}
+.banner-btn{
+    border: 1px solid white;
+}
+.form-btn-color{
+    background: #B68C5A;
+}
+.footer-bg-color{
+    background: #111111;
+}
